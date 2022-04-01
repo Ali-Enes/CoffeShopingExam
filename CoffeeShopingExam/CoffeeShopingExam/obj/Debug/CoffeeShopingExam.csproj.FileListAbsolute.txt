@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\bin\Debug\CoffeeShopingExam.exe.config
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\bin\Debug\CoffeeShopingExam.exe
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\bin\Debug\CoffeeShopingExam.pdb
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\obj\Debug\CoffeeShopingExam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\obj\Debug\CoffeeShopingExam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\obj\Debug\CoffeeShopingExam.exe
+C:\Users\User\Desktop\Ali Enes\CoffeeShopingExam\CoffeeShopingExam\obj\Debug\CoffeeShopingExam.pdb
